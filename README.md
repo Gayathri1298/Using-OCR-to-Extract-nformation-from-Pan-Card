@@ -16,9 +16,9 @@ Onboard faster:
                                                        How it works
                                                        
 The candidate uploads a picture of the PAN card. Our PAN API then extracts the data and records them in the right fields
-           Name of the individual
-           Father's name
-           Date of birth and age
+           Name of the individual,
+           Father's name,
+           Date of birth and age,
            PAN number and type
 
 Where you can use it
