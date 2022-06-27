@@ -29,7 +29,7 @@ Where you can use it
        When onboarding merchants/entities using proof of establishment. This applies across use cases like bank account opening, lending, insurance journeys, and store                onboarding.
 
 Features:
-    1 . 99.97% Accurate
-    2 . Easy integration
-    3 . Instant results
-    4 . 99.9% uptime
+    1 . 99.97% Accurate,
+    2 . Easy integration,
+    3 . Instant results,
+    4 . 99.9% uptime.
