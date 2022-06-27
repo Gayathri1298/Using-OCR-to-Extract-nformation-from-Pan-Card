@@ -1,0 +1,1 @@
+# Using-OCR-to-Extract-nformation-from-Pan-Card
