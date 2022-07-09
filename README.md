@@ -1,4 +1,4 @@
-# Using-OCR-to-Extract-nformation-from-Pan-Card
+# Using-OCR-to-Extract-Information-from-Pan-Card
 
 
 Extracts data from PAN Cards instantly and accurately.
